@@ -1,0 +1,354 @@
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\appsettings.Development.json
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\appsettings.json
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\QuartzService.exe
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\log4net.config
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\QuartzService.deps.json
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\QuartzService.runtimeconfig.json
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\QuartzService.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\QuartzService.pdb
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\log4net.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\MySqlConnector.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Npgsql.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Oracle.ManagedDataAccess.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Quartz.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.DependencyInjection.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.Hosting.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\SqlSugar.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\DmProvider.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Kdbndp.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.Protocols.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\xunit.abstractions.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\xunit.assert.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\xunit.core.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\xunit.execution.dotnet.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\bin\Release\net6.0\win-x64\e_sqlite3.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.AssemblyReference.cache
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfoInputs.cache
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfo.cs
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CoreCompileInputs.cache
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CopyComplete
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\refint\QuartzService.dll
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.pdb
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\QuartzService.genruntimeconfig.cache
+E:\NetCodeWorkSpace\QuartzService\QuartzService\obj\Release\net6.0\win-x64\ref\QuartzService.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.Development.json
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.json
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.exe
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.config
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.deps.json
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.runtimeconfig.json
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.pdb
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\MySqlConnector.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Npgsql.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Oracle.ManagedDataAccess.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.DependencyInjection.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.Hosting.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SqlSugar.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\DmProvider.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Kdbndp.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.Protocols.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.abstractions.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.assert.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.core.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.execution.dotnet.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\e_sqlite3.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.AssemblyReference.cache
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.GeneratedMSBuildEditorConfig.editorconfig
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfoInputs.cache
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfo.cs
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CoreCompileInputs.cache
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CopyComplete
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\refint\QuartzService.dll
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.pdb
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.genruntimeconfig.cache
+E:\NetCodeWorkSpace\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\ref\QuartzService.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.Development.json
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.json
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.exe
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.config
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.deps.json
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.runtimeconfig.json
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.pdb
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\MySqlConnector.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Npgsql.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Oracle.ManagedDataAccess.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.DependencyInjection.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.Hosting.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SqlSugar.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\DmProvider.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Kdbndp.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.Protocols.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.abstractions.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.assert.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.core.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.execution.dotnet.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\e_sqlite3.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.AssemblyReference.cache
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfoInputs.cache
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfo.cs
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CoreCompileInputs.cache
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.sourcelink.json
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CopyComplete
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\refint\QuartzService.dll
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.pdb
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.genruntimeconfig.cache
+E:\Code\新建文件夹\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\ref\QuartzService.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.Development.json
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\appsettings.json
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.exe
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.config
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.deps.json
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.runtimeconfig.json
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\QuartzService.pdb
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\log4net.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.Sqlite.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Binder.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.Json.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Configuration.UserSecrets.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Hosting.WindowsServices.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Configuration.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Console.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Debug.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventLog.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.EventSource.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Extensions.Primitives.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Identity.Client.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Logging.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.IdentityModel.Tokens.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Win32.SystemEvents.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\MySqlConnector.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Newtonsoft.Json.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Npgsql.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Oracle.ManagedDataAccess.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.DependencyInjection.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Quartz.Extensions.Hosting.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.batteries_v2.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.core.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SQLitePCLRaw.provider.e_sqlite3.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\SqlSugar.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\DmProvider.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Kdbndp.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Configuration.ConfigurationManager.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.Messages.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.EventLog.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Diagnostics.PerformanceCounter.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.DirectoryServices.Protocols.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Drawing.Common.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.IdentityModel.Tokens.Jwt.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Runtime.Caching.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Cryptography.ProtectedData.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Security.Permissions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.ServiceProcess.ServiceController.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\System.Windows.Extensions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.abstractions.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.assert.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.core.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\xunit.execution.dotnet.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\Microsoft.Data.SqlClient.SNI.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\bin\Release\net6.0\win-x64\e_sqlite3.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.AssemblyReference.cache
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfoInputs.cache
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.AssemblyInfo.cs
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CoreCompileInputs.cache
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.sourcelink.json
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.csproj.CopyComplete
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\refint\QuartzService.dll
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.pdb
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\QuartzService.genruntimeconfig.cache
+E:\Code\LTSK\new quarts\WorkServiceQuartz\QuartzService\obj\Release\net6.0\win-x64\ref\QuartzService.dll
